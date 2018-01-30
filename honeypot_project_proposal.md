@@ -31,7 +31,7 @@ In order to address the above questions, we have to make some specific assumptio
 
 In that regard, our project is to extensively analyse and visualize the honeypot dataset obtained from a real time simulation attack on a staged computer network. In order to see various kinds of behaviour about the attackers based on the above questions.
 
-## Approach & Risks
+## Approach
 
 In order to address the above questions, we will be using the following methods such as:L
 
