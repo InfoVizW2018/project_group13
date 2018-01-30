@@ -6,4 +6,4 @@ Members:
 - Jorin Weatherston 
 - Rhys Lawson 
 
-See the file [Honeypot Visualization](honeypot_project_proposal.md)
+See the [Honeypot Visualization](honeypot_project_proposal.md) file for the project description.
